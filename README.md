@@ -1,3 +1,3 @@
 # csc396-assignment4
 
-## Work Cited 
+Please see the assignment_4.ipynb notebook for my submission.
